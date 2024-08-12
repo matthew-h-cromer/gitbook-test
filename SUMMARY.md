@@ -2,16 +2,17 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Quick Start
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Configure API keys](quick-start/configure-api-keys.md)
+* [Create a Player](quick-start/create-a-player.md)
+* [Grant a player an item](quick-start/grant-a-player-an-item.md)
+* [Purchase a listing from the in-game marketplace](quick-start/purchase-a-listing-from-the-in-game-marketplace.md)
+* [Accept an offer from the in-game marketplace](quick-start/accept-an-offer-from-the-in-game-marketplace.md)
 
-## Basics
+## API Reference
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Players](api-reference/players.md)
+* [Item types](api-reference/item-types.md)
+* [Items](api-reference/items.md)
+* [Webhook](api-reference/webhook.md)
