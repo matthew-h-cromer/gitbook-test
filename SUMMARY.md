@@ -9,6 +9,7 @@
 * [Grant a player an item](quick-start/grant-a-player-an-item.md)
 * [Purchase a listing from the in-game marketplace](quick-start/purchase-a-listing-from-the-in-game-marketplace.md)
 * [Accept an offer from the in-game marketplace](quick-start/accept-an-offer-from-the-in-game-marketplace.md)
+* [Test](quick-start/test.md)
 
 ## API Reference
 
