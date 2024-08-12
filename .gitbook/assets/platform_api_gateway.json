@@ -1185,7 +1185,7 @@
         "tags": [
           "🛠️ setup"
         ],
-        "summary": "Update the URL for the game to receive notificaitons",
+        "summary": "Remove the URL for the game to receive notifications",
         "parameters": [
           {
             "$ref": "#/components/parameters/x-mythical-environment-id"
