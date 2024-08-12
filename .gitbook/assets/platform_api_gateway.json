@@ -704,7 +704,7 @@
         }
       }
     },
-    "/v1/players/{playerId}/unban": {
+    "/v1/players/{playerId}/un-ban": {
       "put": {
         "tags": [
           "👤 identity"
