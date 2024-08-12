@@ -1,6 +1,5 @@
 {
-  "x-hideTryItPanel": false,
-  "x-codeSamples": false,
+  "x-hideTryItPanel": true,
   "openapi": "3.0.3",
   "info": {
     "title": "Mythical Platform API",
